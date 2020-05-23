@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3f1dba02-4d7e-4321-a937-89fcbe69fac2" name="Default Changelist" comment="" />
-    <ignored path="$PROJECT_DIR$/base/target/" />
-    <ignored path="$PROJECT_DIR$/springbootdemo/target/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="3f1dba02-4d7e-4321-a937-89fcbe69fac2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springbootdemo/src/main/java/com/hbgc/springbootdemo/controller/UsersController.java" beforeDir="false" afterPath="$PROJECT_DIR$/springbootdemo/src/main/java/com/hbgc/springbootdemo/controller/UsersController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springbootdemo/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/springbootdemo/src/main/resources/application.properties" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,77 +14,6 @@
   </component>
   <component name="CompilerWorkspaceConfiguration">
     <option name="MAKE_PROJECT_ON_SAVE" value="true" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/springbootdemo/src/main/java/com/hbgc/springbootdemo/controller/CommonsController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1083">
-              <caret line="86" column="20" selection-start-line="86" selection-start-column="20" selection-end-line="86" selection-end-column="20" />
-              <folding>
-                <element signature="method#createRandomCodeImage#0;class#CommonsController#0" />
-                <element signature="method#defaultKaptcha#0;class#CommonsController#0" />
-                <element signature="method#sendMobileRandomCode#0;class#CommonsController#0" />
-                <element signature="method#loadFiles#0;class#CommonsController#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/springbootdemo/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="27" column="19" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/springbootdemo/src/main/resources/application.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="61" column="9" lean-forward="true" selection-start-line="61" selection-start-column="9" selection-end-line="61" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/springbootdemo/src/main/java/com/hbgc/springbootdemo/controller/OnlineCodeController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="169">
-              <caret line="37" column="18" lean-forward="true" selection-start-line="37" selection-start-column="18" selection-end-line="37" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/springbootdemo/src/main/java/com/hbgc/springbootdemo/domain/Users.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="21" column="28" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/springbootdemo/src/main/java/com/hbgc/springbootdemo/controller/UsersController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="551">
-              <caret line="90" column="14" selection-start-line="90" selection-start-column="14" selection-end-line="90" selection-end-column="14" />
-              <folding>
-                <element signature="method#loginByMathCode#0;class#UsersController#0" />
-                <element signature="method#reg#0;class#UsersController#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -93,59 +24,16 @@
       </list>
     </option>
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/springbootdemo/src/main/java/com/hbgc/springbootdemo/config/RedisConfiguration.java" />
-        <option value="$PROJECT_DIR$/springbootdemo/src/main/java/com/hbgc/springbootdemo/controller/ConmmentsController.java" />
-        <option value="$PROJECT_DIR$/springbootdemo/src/main/java/com/hbgc/springbootdemo/utils/MyUtils.java" />
-        <option value="$PROJECT_DIR$/springbootdemo/src/main/java/com/hbgc/springbootdemo/controller/BaseController.java" />
-        <option value="$PROJECT_DIR$/springbootdemo/src/main/java/com/hbgc/springbootdemo/repository/CatalogRepository.java" />
-        <option value="$PROJECT_DIR$/springbootdemo/src/main/java/com/hbgc/springbootdemo/service/CatalogService.java" />
-        <option value="$PROJECT_DIR$/springbootdemo/src/main/java/com/hbgc/springbootdemo/service/imp/CatalogServiceImp.java" />
-        <option value="$PROJECT_DIR$/springbootdemo/src/main/java/com/hbgc/springbootdemo/controller/UploadFilePathConfig.java" />
-        <option value="$PROJECT_DIR$/springbootdemo/src/main/java/com/hbgc/springbootdemo/repository/ItemsRepository.java" />
-        <option value="$PROJECT_DIR$/springbootdemo/src/main/java/com/hbgc/springbootdemo/service/imp/ItemsServiceImpl.java" />
-        <option value="$PROJECT_DIR$/springbootdemo/src/main/java/com/hbgc/springbootdemo/controller/ItemsController.java" />
-        <option value="$PROJECT_DIR$/springbootdemo/src/main/java/com/hbgc/springbootdemo/domain/HelloWorld.java" />
-        <option value="$PROJECT_DIR$/../uploadFiles/HelloWorld.java" />
-        <option value="$PROJECT_DIR$/springbootdemo/src/main/java/com/hbgc/springbootdemo/domain/BaseEntity.java" />
-        <option value="$PROJECT_DIR$/springbootdemo/src/main/java/com/hbgc/springbootdemo/repository/BaseRepository.java" />
-        <option value="$PROJECT_DIR$/springbootdemo/src/main/java/com/hbgc/springbootdemo/service/imp/BaseServiceImpl.java" />
-        <option value="$PROJECT_DIR$/springbootdemo/src/main/java/com/hbgc/springbootdemo/controller/CourseController.java" />
-        <option value="$PROJECT_DIR$/springbootdemo/src/main/java/com/hbgc/springbootdemo/domain/Course.java" />
-        <option value="$PROJECT_DIR$/springbootdemo/src/main/java/com/hbgc/springbootdemo/service/imp/AricleService.java" />
-        <option value="$PROJECT_DIR$/springbootdemo/src/main/java/com/hbgc/springbootdemo/service/ArticleService.java" />
-        <option value="$PROJECT_DIR$/springbootdemo/src/main/java/com/hbgc/springbootdemo/repository/ArticleRepository.java" />
-        <option value="$PROJECT_DIR$/springbootdemo/src/main/java/com/hbgc/springbootdemo/service/imp/ArticleServiceImp.java" />
-        <option value="$PROJECT_DIR$/springbootdemo/src/main/java/com/hbgc/springbootdemo/domain/Catalog.java" />
-        <option value="$PROJECT_DIR$/springbootdemo/src/main/java/com/hbgc/springbootdemo/controller/CatalogController.java" />
-        <option value="$PROJECT_DIR$/springbootdemo/src/main/java/com/hbgc/springbootdemo/controller/TabsController.java" />
-        <option value="$PROJECT_DIR$/springbootdemo/src/main/java/com/hbgc/springbootdemo/domain/Tabs.java" />
-        <option value="$PROJECT_DIR$/springbootdemo/src/main/java/com/hbgc/springbootdemo/controller/ArticleController.java" />
-        <option value="$PROJECT_DIR$/springbootdemo/src/main/java/com/hbgc/springbootdemo/domain/Article.java" />
-        <option value="$PROJECT_DIR$/springbootdemo/src/main/java/com/hbgc/springbootdemo/service/imp/UsersServiceImpl.java" />
-        <option value="$PROJECT_DIR$/springbootdemo/src/main/java/com/hbgc/springbootdemo/service/UsersService.java" />
-        <option value="$PROJECT_DIR$/springbootdemo/src/test/java/com/hbgc/springbootdemo/service/ArticleSeviceTest.java" />
-        <option value="$PROJECT_DIR$/springbootdemo/src/main/java/com/hbgc/springbootdemo/domain/OnlineCode.java" />
-        <option value="$PROJECT_DIR$/springbootdemo/src/main/java/com/hbgc/springbootdemo/controller/OnlineCodeController.java" />
-        <option value="$PROJECT_DIR$/base/pom.xml" />
-        <option value="$PROJECT_DIR$/springbootdemo/src/main/java/com/hbgc/springbootdemo/controller/CommonsController.java" />
-        <option value="$PROJECT_DIR$/springbootdemo/src/main/java/com/hbgc/springbootdemo/controller/UsersController.java" />
-        <option value="$PROJECT_DIR$/springbootdemo/src/main/java/com/hbgc/springbootdemo/repository/UsersRepository.java" />
-        <option value="$PROJECT_DIR$/springbootdemo/src/main/java/com/hbgc/springbootdemo/service/BaseService.java" />
-        <option value="$PROJECT_DIR$/springbootdemo/src/main/java/com/hbgc/springbootdemo/domain/Users.java" />
-        <option value="$PROJECT_DIR$/springbootdemo/src/main/java/com/hbgc/springbootdemo/util/MyUtils.java" />
-        <option value="$PROJECT_DIR$/springbootdemo/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/springbootdemo/pom.xml" />
-      </list>
-    </option>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
         <option name="alwaysUpdateSnapshots" value="true" />
-        <option name="mavenHome" value="C:/apache-maven-3.5.3" />
+        <option name="localRepository" value="D:\maven\repository" />
+        <option name="mavenHome" value="D:/maven/apache-maven-3.5.3" />
+        <option name="userSettingsFile" value="D:\maven\apache-maven-3.5.3\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
     <option name="importingSettings">
@@ -154,86 +42,18 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="MavenProjectNavigator">
-    <treeState>
-      <expand>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="springbootdemo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="springbootdemo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
-        </path>
-      </expand>
-      <select />
-    </treeState>
-  </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="581" />
     <option name="y" value="56" />
     <option name="width" value="1400" />
     <option name="height" value="820" />
   </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="codeserver_prj" type="b2602c69:ProjectViewProjectNode" />
-              <item name="base" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="codeserver_prj" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springbootdemo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="codeserver_prj" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springbootdemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="codeserver_prj" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springbootdemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="codeserver_prj" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springbootdemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="codeserver_prj" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springbootdemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="springbootdemo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="codeserver_prj" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springbootdemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="springbootdemo" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+  <component name="ProjectId" id="1bQNIP1IC6FtdoW1n4cHh5ULyCy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RequestMappingsPanelOrder0" value="0" />
@@ -242,15 +62,15 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1577861376248" />
-    <property name="last_opened_file_path" value="F:/学佳澳java培训（2）/就业项目/moocserver_prj(1)" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1577890539485" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -264,19 +84,7 @@
       <recent name="D:\codeserver_prj\springbootdemo\src\main\java\com\hbgc\springbootdemo\service" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Maven.springbootdemo [package]">
+  <component name="RunManager" selected="Spring Boot.SpringbootdemoApplication">
     <configuration name="MyUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.hbgc.springbootdemo.util.MyUtils" />
       <module name="springbootdemo" />
@@ -414,6 +222,16 @@
       <workItem from="1577701400223" duration="3880000" />
       <workItem from="1577759135695" duration="736000" />
       <workItem from="1577860293937" duration="1634000" />
+      <workItem from="1578043696375" duration="3389000" />
+      <workItem from="1578123698579" duration="6396000" />
+      <workItem from="1578198527365" duration="3671000" />
+      <workItem from="1582514384469" duration="704000" />
+      <workItem from="1582518448032" duration="627000" />
+      <workItem from="1582618456425" duration="1833000" />
+      <workItem from="1588560279677" duration="99000" />
+      <workItem from="1588861034286" duration="379000" />
+      <workItem from="1589076838718" duration="1971000" />
+      <workItem from="1589078835505" duration="1517000" />
     </task>
     <servers />
   </component>
@@ -449,9 +267,6 @@
       <configuration name="ArticleSeviceTest.testMobile" configurationId="JUnit" />
     </history-entry>
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="166115000" />
-  </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
       <is-autoscroll-to-source value="true" />
@@ -461,542 +276,34 @@
       <is-autoscroll-to-source value="true" />
     </todo-panel>
   </component>
-  <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22163388" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Designer" order="2" />
-      <window_info id="Image Layers" order="3" />
-      <window_info id="Capture Tool" order="4" />
-      <window_info id="UI Designer" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info id="Web" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.28114477" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2138047" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32996634" />
-      <window_info anchor="bottom" id="Spring" order="7" weight="0.32996634" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.42087543" />
-      <window_info anchor="bottom" id="Problems" order="12" weight="0.32996634" />
-      <window_info anchor="bottom" id="Java Enterprise" order="13" weight="0.32996634" />
-      <window_info anchor="bottom" id="Database Changes" order="14" />
-      <window_info anchor="bottom" id="Version Control" order="15" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" weight="0.28895614" />
-      <window_info anchor="right" id="Palette" order="4" />
-      <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="Database" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Theme Preview" order="8" />
-      <window_info anchor="right" id="Bean Validation" order="9" />
-    </layout>
-    <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25037822" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Designer" order="2" />
-      <window_info id="Image Layers" order="3" />
-      <window_info id="Capture Tool" order="4" />
-      <window_info id="UI Designer" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info id="Web" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.28114477" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.4090909" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32996634" />
-      <window_info anchor="bottom" id="Spring" order="7" weight="0.32996634" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.42087543" />
-      <window_info anchor="bottom" id="Problems" order="12" weight="0.32996634" />
-      <window_info anchor="bottom" id="Java Enterprise" order="13" weight="0.32996634" />
-      <window_info anchor="bottom" id="Database Changes" order="14" />
-      <window_info anchor="bottom" id="Version Control" order="15" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" weight="0.5128593" />
-      <window_info anchor="right" id="Palette" order="4" />
-      <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="Database" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Theme Preview" order="8" />
-      <window_info anchor="right" id="Bean Validation" order="9" />
-    </layout-to-restore>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/springbootdemo/src/main/java/com/hbgc/springbootdemo/config/CorsConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="13" column="25" lean-forward="true" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springbootdemo/src/main/java/com/hbgc/springbootdemo/config/KaptchaConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-152">
-          <caret line="46" column="28" lean-forward="true" selection-start-line="46" selection-start-column="28" selection-end-line="46" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springbootdemo/src/main/java/com/hbgc/springbootdemo/config/SwaggerConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-40">
-          <caret line="15" column="28" lean-forward="true" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springbootdemo/src/main/java/com/hbgc/springbootdemo/SpringbootdemoApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="e#339#340#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/src/main/java/com/hbgc/springbootdemo/util/MyUtils.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_65/src.zip!/java/lang/Process.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-894">
-          <caret line="94" column="41" selection-start-line="94" selection-start-column="41" selection-end-line="94" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springbootdemo/src/main/java/com/hbgc/springbootdemo/domain/HelloWorld.java" />
-    <entry file="file://$PROJECT_DIR$/springbootdemo/src/main/resources/app.properties" />
-    <entry file="file://$PROJECT_DIR$/../uploadFiles/HelloWorld.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="4" selection-end-column="1" />
-          <folding>
-            <element signature="e#69#70#0" expanded="true" />
-            <element signature="e#121#122#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springbootdemo/src/main/java/com/hbgc/springbootdemo/config/RedisConfiguration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="35" column="13" lean-forward="true" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springbootdemo/src/main/java/com/hbgc/springbootdemo/domain/Items.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="22" column="31" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springbootdemo/src/main/java/com/hbgc/springbootdemo/repository/ItemsRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="69" selection-start-line="4" selection-start-column="62" selection-end-line="4" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springbootdemo/src/main/java/com/hbgc/springbootdemo/service/ItemsService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springbootdemo/src/main/java/com/hbgc/springbootdemo/controller/UploadFilePathConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="31">
-          <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springbootdemo/src/main/java/com/hbgc/springbootdemo/controller/BaseController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springbootdemo/src/main/java/com/hbgc/springbootdemo/repository/BaseRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="12" column="26" lean-forward="true" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springbootdemo/src/main/java/com/hbgc/springbootdemo/service/imp/BaseServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="283">
-          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springbootdemo/src/main/java/com/hbgc/springbootdemo/repository/ArticleRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springbootdemo/src/main/java/com/hbgc/springbootdemo/service/imp/ArticleServiceImp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#385#386#0" expanded="true" />
-            <element signature="e#412#413#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springbootdemo/src/test/java/com/hbgc/springbootdemo/SpringbootdemoApplicationTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springbootdemo/src/main/java/com/hbgc/springbootdemo/service/TabsService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="53" selection-start-line="5" selection-start-column="53" selection-end-line="5" selection-end-column="53" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springbootdemo/src/main/java/com/hbgc/springbootdemo/domain/Tabs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springbootdemo/src/main/java/com/hbgc/springbootdemo/repository/TabsRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springbootdemo/src/main/java/com/hbgc/springbootdemo/service/imp/TabsServiceImp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="8" column="38" lean-forward="true" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springbootdemo/src/main/java/com/hbgc/springbootdemo/service/ArticleService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="29" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springbootdemo/src/main/java/com/hbgc/springbootdemo/controller/UploadFileConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="23" column="26" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springbootdemo/src/main/java/com/hbgc/springbootdemo/controller/TabsController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="23" column="28" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springbootdemo/src/main/java/com/hbgc/springbootdemo/domain/BaseEntity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="24" lean-forward="true" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#537#538#0" expanded="true" />
-            <element signature="e#570#571#0" expanded="true" />
-            <element signature="e#622#623#0" expanded="true" />
-            <element signature="e#666#667#0" expanded="true" />
-            <element signature="e#697#698#0" expanded="true" />
-            <element signature="e#724#725#0" expanded="true" />
-            <element signature="e#765#766#0" expanded="true" />
-            <element signature="e#797#798#0" expanded="true" />
-            <element signature="e#832#833#0" expanded="true" />
-            <element signature="e#862#863#0" expanded="true" />
-            <element signature="e#909#910#0" expanded="true" />
-            <element signature="e#947#948#0" expanded="true" />
-            <element signature="e#984#985#0" expanded="true" />
-            <element signature="e#1017#1018#0" expanded="true" />
-            <element signature="e#1069#1070#0" expanded="true" />
-            <element signature="e#1113#1114#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springbootdemo/src/main/java/com/hbgc/springbootdemo/controller/ItemsController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="25" column="7" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/cn/hutool/hutool-all/5.0.6/hutool-all-5.0.6.jar!/cn/hutool/core/util/RandomUtil.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-722">
-          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springbootdemo/src/main/java/com/hbgc/springbootdemo/service/UsersService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springbootdemo/src/main/java/com/hbgc/springbootdemo/json/Json.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="25" column="30" lean-forward="true" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
-          <folding>
-            <element signature="e#1091#1107#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springbootdemo/src/test/java/com/hbgc/springbootdemo/service/ArticleSeviceTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springbootdemo/src/main/java/com/hbgc/springbootdemo/service/imp/UsersServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#584#585#0" expanded="true" />
-            <element signature="e#637#638#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springbootdemo/src/main/java/com/hbgc/springbootdemo/util/token/TokenEncryptUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-19">
-          <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springbootdemo/src/main/java/com/hbgc/springbootdemo/util/token/TokenUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/cn/hutool/hutool-all/5.0.6/hutool-all-5.0.6.jar!/cn/hutool/core/lang/UUID.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="44" column="23" selection-start-line="44" selection-start-column="23" selection-end-line="44" selection-end-column="23" />
-          <folding>
-            <element signature="e#1206#1207#0" expanded="true" />
-            <element signature="e#1246#1247#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../onlineCode/Hello.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/base/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="125" column="24" lean-forward="true" selection-start-line="125" selection-start-column="24" selection-end-line="125" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springbootdemo/src/main/java/com/hbgc/springbootdemo/domain/Article.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="17" selection-start-line="17" selection-end-line="17" selection-end-column="66" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springbootdemo/src/main/java/com/hbgc/springbootdemo/controller/ArticleController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="67" column="13" lean-forward="true" selection-start-line="67" selection-start-column="13" selection-end-line="67" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springbootdemo/src/main/java/com/hbgc/springbootdemo/repository/UsersRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springbootdemo/src/main/java/com/hbgc/springbootdemo/service/BaseService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="30" column="23" selection-start-line="30" selection-start-column="23" selection-end-line="30" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springbootdemo/src/main/java/com/hbgc/springbootdemo/domain/OnlineCode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="27" column="32" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springbootdemo/src/main/java/com/hbgc/springbootdemo/util/MyUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2774">
-          <caret line="307" column="27" selection-start-line="307" selection-start-column="27" selection-end-line="307" selection-end-column="27" />
-          <folding>
-            <element signature="method#utilsDateToString#0;class#MyUtils#0" />
-            <element signature="method#createRandomCode#0;class#MyUtils#0" />
-            <element signature="method#generateVerifyCode#0;class#MyUtils#0" />
-            <element signature="method#calc#0;class#MyUtils#0" />
-            <element signature="method#streamToStr#0;class#MyUtils#0" />
-            <element signature="method#sendEmailValidateCode#0;class#MyUtils#0" />
-            <element signature="method#sendMessageCodeByAliyun#0;class#MyUtils#0" />
-            <element signature="method#checkPassword#0;class#MyUtils#0" />
-            <element signature="method#emailFormat#0;class#MyUtils#0" />
-            <element signature="method#isChinaPhoneLegal#0;class#MyUtils#0" />
-            <element signature="method#isHKPhoneLegal#0;class#MyUtils#0" />
-            <element signature="method#uploadFile#0;class#MyUtils#0" />
-            <element signature="method#createUUIDFileName#0;class#MyUtils#0" />
-            <element signature="method#getOperateSysName#0;class#MyUtils#0" />
-            <element signature="method#compileAndRunOnlineCodeOnLinux#0;class#MyUtils#0" />
-            <element signature="method#runLinuxCmd#0;class#MyUtils#0" />
-            <element signature="method#getUTF8BytesFromGBKString#0;class#MyUtils#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springbootdemo/src/main/java/com/hbgc/springbootdemo/controller/CommonsController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1083">
-          <caret line="86" column="20" selection-start-line="86" selection-start-column="20" selection-end-line="86" selection-end-column="20" />
-          <folding>
-            <element signature="method#createRandomCodeImage#0;class#CommonsController#0" />
-            <element signature="method#defaultKaptcha#0;class#CommonsController#0" />
-            <element signature="method#sendMobileRandomCode#0;class#CommonsController#0" />
-            <element signature="method#loadFiles#0;class#CommonsController#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springbootdemo/src/main/java/com/hbgc/springbootdemo/domain/Users.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="21" column="28" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springbootdemo/src/main/java/com/hbgc/springbootdemo/controller/UsersController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="90" column="14" selection-start-line="90" selection-start-column="14" selection-end-line="90" selection-end-column="14" />
-          <folding>
-            <element signature="method#loginByMathCode#0;class#UsersController#0" />
-            <element signature="method#reg#0;class#UsersController#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springbootdemo/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="27" column="19" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springbootdemo/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="61" column="9" lean-forward="true" selection-start-line="61" selection-start-column="9" selection-end-line="61" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springbootdemo/src/main/java/com/hbgc/springbootdemo/controller/OnlineCodeController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="37" column="18" lean-forward="true" selection-start-line="37" selection-start-column="18" selection-end-line="37" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
+  <component name="WindowStateProjectService">
+    <state x="422" y="144" key="FileChooserDialogImpl" timestamp="1588560310606">
+      <screen x="0" y="0" width="1280" height="770" />
+    </state>
+    <state x="422" y="144" key="FileChooserDialogImpl/0.0.1280.770@0.0.1280.770" timestamp="1588560310606" />
+    <state width="1238" height="207" key="GridCell.Tab.0.bottom" timestamp="1588861416381">
+      <screen x="0" y="0" width="1280" height="770" />
+    </state>
+    <state width="1238" height="207" key="GridCell.Tab.0.bottom/0.0.1280.770@0.0.1280.770" timestamp="1588861416381" />
+    <state width="1238" height="207" key="GridCell.Tab.0.center" timestamp="1588861416381">
+      <screen x="0" y="0" width="1280" height="770" />
+    </state>
+    <state width="1238" height="207" key="GridCell.Tab.0.center/0.0.1280.770@0.0.1280.770" timestamp="1588861416381" />
+    <state width="1238" height="207" key="GridCell.Tab.0.left" timestamp="1588861416381">
+      <screen x="0" y="0" width="1280" height="770" />
+    </state>
+    <state width="1238" height="207" key="GridCell.Tab.0.left/0.0.1280.770@0.0.1280.770" timestamp="1588861416381" />
+    <state width="1238" height="207" key="GridCell.Tab.0.right" timestamp="1588861416381">
+      <screen x="0" y="0" width="1280" height="770" />
+    </state>
+    <state width="1238" height="207" key="GridCell.Tab.0.right/0.0.1280.770@0.0.1280.770" timestamp="1588861416381" />
+    <state x="144" y="30" key="SettingsEditor" timestamp="1589078811150">
+      <screen x="0" y="0" width="1280" height="770" />
+    </state>
+    <state x="144" y="30" key="SettingsEditor/0.0.1280.770@0.0.1280.770" timestamp="1589078811150" />
   </component>
   <component name="masterDetails">
     <states>

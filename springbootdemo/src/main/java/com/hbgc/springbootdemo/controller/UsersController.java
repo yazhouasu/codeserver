@@ -60,6 +60,7 @@ public class UsersController extends BaseController {
             loginUser.setToken(auth_token);
 
             if (loginUser != null) {
+                System.out.println("用户登录成功！");
                 return Json.success(loginUser, "登录成功!");
             }
             return Json.fail("登录失败!");
@@ -80,6 +81,23 @@ public class UsersController extends BaseController {
             }
             usersService.save(user);
             return Json.success(null, "注册成功！");
+        } catch (Exception ex) {
+            ex.printStackTrace();
+            return Json.fail("注册失败！");
+        }
+    }
+
+    //用户直接注册
+    @PostMapping("reg2")
+    @ApiOperation(value = "用户直接注册的接口")
+    public Map<String, Object> reg2(@RequestBody Users user) {
+        //Users regUser = null;
+        try {
+            if(user!=null){
+                usersService.save(user);
+                return Json.success(null, "注册成功！");
+            }
+            return Json.fail("用户不能为空！");
         } catch (Exception ex) {
             ex.printStackTrace();
             return Json.fail("注册失败！");
